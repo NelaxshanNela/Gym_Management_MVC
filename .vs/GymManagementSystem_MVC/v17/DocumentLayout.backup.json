@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|d:\\projects\\practice\\gymmanagementsystem_mvc\\gymmanagementsystem_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|solutionrelative:gymmanagementsystem_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|d:\\projects\\practice\\gymmanagementsystem_mvc\\gymmanagementsystem_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|solutionrelative:gymmanagementsystem_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|d:\\projects\\practice\\gymmanagementsystem_mvc\\gymmanagementsystem_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|solutionrelative:gymmanagementsystem_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|d:\\projects\\practice\\gymmanagementsystem_mvc\\gymmanagementsystem_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6CABF7-4950-4873-8C9E-1B47CC1108E2}|GymManagementSystem_MVC\\GymManagementSystem_MVC.csproj|solutionrelative:gymmanagementsystem_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem_MVC\\Program.cs",
+              "ToolTip": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Program.cs",
+              "RelativeToolTip": "GymManagementSystem_MVC\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:00:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "GymManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T11:59:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GymManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:57:47.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem_MVC\\Models\\Product.cs",
+              "ToolTip": "D:\\Projects\\Practice\\GymManagementSystem_MVC\\GymManagementSystem_MVC\\Models\\Product.cs",
+              "RelativeToolTip": "GymManagementSystem_MVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:55:05.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
